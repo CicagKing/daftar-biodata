@@ -1,4 +1,4 @@
-# datar-biodata
+# daftar-biodata
 
 ==
 Daftar biodata beasiswa Dicoding
